@@ -1,0 +1,55 @@
+.settings{
+    display: flex;
+    justify-content: center;
+    height: 94vh;
+    align-items: center;
+    background-color: rgb(245, 241, 236);
+}
+.settingsbox{
+    height: 60vh;
+    min-width: 40vw;
+    border-radius: 3rem;
+    background-color:rgb(198, 202, 201)
+}
+.setting_footer{
+text-align: center;
+position: fixed;
+bottom: 3vh;
+
+}
+.settingsboxtop{
+   text-align: center;
+   font-weight: 500; 
+   font-size:3vh;
+   border-bottom: 4px solid white;
+   padding: 2% 2%;
+   margin:0px 3%;
+}
+.settingsboxbottom{
+    display:flex;
+    flex-direction: column;
+}
+.settingsboxbottompart{
+   display: grid;
+   margin: 10px;
+   grid-template-columns: 30% 70%;
+}
+.nameofpart{
+  font-size: 1rem;
+}
+.updatebio{
+  display: grid;
+  grid-template-columns:60% 40% ;
+}
+.updatebio button{
+    margin:0px 12%;
+    font-size: 0.8rem;
+}
+@media (max-width:768px) {
+  html{
+    font-size: 60%;
+  }
+.settingsboxbottompart{
+  font-size: 3vw;
+}
+}
