@@ -132,7 +132,7 @@ const Setting = () => {
                     
                 </div>
                     <footer className='setting_footer'>
-                        <a href="http://github.com/thehmj" target="_blank" rel="noopener noreferrer">&copy;thehmj</a>
+                        <a href="https://github.com/nakshtra1602" target="_blank" rel="noopener noreferrer">&copy;NakshtraJain</a>
                     </footer>
             </div>
         </>

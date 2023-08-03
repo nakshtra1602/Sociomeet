@@ -271,28 +271,6 @@ function Home() {
                     }
 
                 </div>
-
-                {/* <div className="right_home">
-                    <div>Creator</div>
-                    <a href="https://www.linkedin.com/in/himanshu-jain-452270237/" target="_blank" rel="noopener noreferrer">
-                        <div className="right_home_creator">
-                            LinkedIn
-                        </div>
-                    </a>
-                    <a href="https://github.com/thehmj" target="_blank" rel="noopener noreferrer" >
-                        <div className="right_home_creator">
-                            Github
-                        </div>
-                    </a>
-                    <a href="https://leetcode.com/himanshu4jain/" target="_blank" rel="noopener noreferrer">
-                        <div className="right_home_creator">
-                            Leetcode
-                        </div>
-                    </a>
-
-
-                    <div></div>
-                </div> */}
             </div>
         </div>
     )
